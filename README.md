@@ -14,7 +14,7 @@ Instructions for how to get a copy of the project running on your local machine 
 
 * [R](https://www.r-project.org) - R is High-level language used mainly in machine learning ,data science and statisitcs.
 * [RStudio](https://posit.co/download/rstudio-desktop) - RStudio is IDE for development and programming with r language.
-* [Libraries] - can see it in `packages.txt`.
+* [Libraries](packages.txt) - can see it in `packages.txt`.
 Include all items used to build project.
 
 ## License
